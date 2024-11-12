@@ -1,5 +1,3 @@
-# mini-OS-Shell
-
 
 # Jamatia's Mini OS Shell
 
