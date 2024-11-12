@@ -18,7 +18,7 @@ The main objective of this project is to create a lightweight and interactive sh
 - **C Programming Language**: The shell is implemented in C, providing low-level control over system processes.
 - **Visual Studio Code**: Used as the primary Integrated Development Environment (IDE) for coding, debugging, and testing the Mini OS Shell.
 
-## Key C Programming Concepts Demonstrated
+## The Art of C in Shell Development
 
 This project highlights several important aspects of C programming, demonstrating both basic and advanced techniques:
 
