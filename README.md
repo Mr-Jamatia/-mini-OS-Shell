@@ -240,5 +240,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This updated README reflects your C programming knowledge and highlights the various concepts you used in developing the Mini OS Shell project, providing a clear view of your capabilities with the language.
